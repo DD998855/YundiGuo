@@ -1,13 +1,13 @@
-# PDF 链接测试清单（OneDrive 公链版）
+# PDF 链接测试清单（本地 pdf 目录版）
 
 ## ✅ 当前 4 个项目 PDF 链接
 
 | 项目名称 | 查看PDF链接 |
 |---------|-------------|
-| Cloud Interactive Installation | https://1drv.ms/b/c/a47061ad0c73bc38/IQAW7YaJ6R8WQ5JHSF5Y1wuIAZAulYTPLECg1yJH3wgi_EM?e=9DgI0n |
-| Emotional Creature | https://1drv.ms/b/c/a47061ad0c73bc38/IQAKno6SNdoBTIiic5-ODHG_AUHA03_SWcdNtHvII-vtIIY?e=xPrgOh |
-| Identity Specification Document | https://1drv.ms/b/c/a47061ad0c73bc38/IQDC90SL4SfVRrdXz-T8-bvyAesQxp5b-kQF6nBAWLxZjAo?e=GJzeNf |
-| Daily Grind Dashboard | https://1drv.ms/b/c/a47061ad0c73bc38/IQCEXJvw2bj2TLLPqiEsK85XAaYVy8qyW3xRBqNCsmRIgrM?e=tZT3vj |
+| Cloud Interactive Installation | pdf/Yundi%20Guo%27s%20Portfolio%20Prj1.pdf |
+| Emotional Creature | pdf/Yundi%20Guo%27s%20Portfolio%20Prj2.pdf |
+| Identity Specification Document | pdf/Yundi%27s%20Project%203%20%E2%80%93%20Identity%20Specification%20Document.pdf |
+| Daily Grind Dashboard | pdf/Yundi%20Guo%27s%20Project1.pdf |
 
 ---
 
@@ -28,4 +28,4 @@
 	- Emotional Creature
 	- Cloud Interactive Installation
 	- Identity Specification Document
-3. 确认均在新标签页打开 OneDrive 公链
+3. 确认均在新标签页直接打开本地 PDF（不跳登录页）
