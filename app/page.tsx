@@ -31,7 +31,7 @@ const projects: Project[] = [
     lineZh: "把埋在微信群聊里的工作变成行动。",
     tagsEn: ["Product", "UX", "Prototype"],
     tagsZh: ["产品", "体验", "原型"],
-    href: "/flow-prototype.html",
+    href: "./flow-prototype.html",
     preview: "live",
     level: "core",
     className: "card-flow",
@@ -480,7 +480,7 @@ function ProjectVisual({ id, large = false }: { id: string; large?: boolean }) {
   return (
     <span className={`project-visual visual-${id} ${large ? "is-large" : ""}`} aria-hidden="true">
       {id === "flow" && <><span className="mini-side"><i /><i /><i /><i /></span><span className="mini-main"><b>Today</b><i /><i /><i /><em /></span></>}
-      {id === "dilab" && <><span className="dilab-frame"><img src="/dilab-logo.svg" alt="" /><b>DYNAMIC<br />INTELLIGENCE<br />LAB</b></span></>}
+      {id === "dilab" && <><span className="dilab-frame"><img src="./dilab-logo.svg" alt="" /><b>DYNAMIC<br />INTELLIGENCE<br />LAB</b></span></>}
       {id === "aed" && <><span className="aed-cross">+</span><span className="aed-steps"><i>01</i><i>02</i><i>03</i></span></>}
       {id === "carson" && <><b className="carson-a">TYPE</b><b className="carson-b">CHAOS</b><i className="carson-rule" /></>}
       {id === "cloud" && <><span className="cloud-glyph">☁</span><span className="cloud-sensor">MOVE → RESPONSE</span></>}
@@ -669,7 +669,7 @@ export default function Home() {
                 <div className="about-education"><span>{zh ? "教育" : "EDUCATION"}</span><p>Sheridan College · {zh ? "交互设计本科（在读） · Art Fundamentals · TCPS 2" : "Bachelor of Interaction Design (in progress) · Art Fundamentals · TCPS 2"}</p></div>
               </div>
               <figure className="about-portrait">
-                <img src="/yundi-portrait.png" alt={zh ? "郭云笛的黑白肖像" : "Black and white portrait of Yundi Guo"} />
+                <img src="./yundi-portrait.png" alt={zh ? "郭云笛的黑白肖像" : "Black and white portrait of Yundi Guo"} />
               </figure>
             </div>
           </section>
